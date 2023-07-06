@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
+[![MasterHead](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)(https://www.linkedin.com/in/wojciech-stopka-92755922b/)]
 <h1 align="center">Hi 👋, I'm Wojtek</h1>
 <h3 align="center">Aspiring Junior Python Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQ1NDkzNGoycDZnZHF0ODB6dWV2dnVtZTA1a2VsbHExcDBnZ2NtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
